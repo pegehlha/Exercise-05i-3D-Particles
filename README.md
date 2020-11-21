@@ -5,6 +5,7 @@ Exercise for MSCH-C220, 17 November 2020
 
 An exploration of Godot's 3D Particles and 3D Sprites.
 
+
 ## Implementation
 Built using Godot 3.2.2
 Exported for MacOS as project.dmg
